@@ -1,2 +1,0 @@
-file 'example-horizontal/1920X1080-Ad_Short.mp4'
-file 'example-horizontal/1920x1080-AshEchoes_Long.mp4'

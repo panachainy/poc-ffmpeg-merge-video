@@ -1,2 +1,0 @@
-file 'example-vertical/1080x1920-Ad_bondbond_Short.mp4'
-file 'example-vertical/1080x1920-bondbond_Short.mp4'
